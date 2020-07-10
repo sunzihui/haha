@@ -1,0 +1,2 @@
+print("cpp")
+print("java")
