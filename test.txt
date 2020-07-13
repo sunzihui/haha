@@ -1,2 +1,3 @@
 "The first day"
 "Good morning"
+"Good afternoon"
